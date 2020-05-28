@@ -1,7 +1,7 @@
 # Data-Cleansing
 A few projects that can be utilized as examples for data cleansing and wrangling.
 
-**Book Publications
-**Olympics Data
+1.Book Publications
+2.Olympics Data
 
 
